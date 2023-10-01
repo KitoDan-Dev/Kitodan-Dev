@@ -1,5 +1,9 @@
 ## Welcome to Kito.Dan profile 😁
- 
+  <div>
+   <a href="https://github.com/Kitodan-Dev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitodanUxUi&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
