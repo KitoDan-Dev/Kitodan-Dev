@@ -1,7 +1,7 @@
 ## Welcome to Kito.Dan profile 😁
   <div>
-   <a href="https://github.com/Kitodan-Dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitodanUxUi&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/KitoDan-Dev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitoDan-Dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
    
 <div style="display: inline_block"><br>
